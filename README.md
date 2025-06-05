@@ -1,8 +1,3 @@
----
-export_on_save:
-  prince: true
----
-
 # Image Denoising using Parallel Computing Techniques
 
 ## 1. Introduction
